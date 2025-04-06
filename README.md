@@ -1,15 +1,8 @@
-Nombre: Laura Anngelina Rincón Aldana
-Cédula: 1118529179
-Programa:Introducción a la inteligencia artificial
+# Información del Estudiante
 
-# Nombre del Proyecto
+## Datos Personales
 
-Una breve descripción de lo que hace el proyecto y por qué es útil.
+- **Nombre**: Laura Anngelina Rincón Aldana
+- **Cédula**: 1118529179
+- **Programa**: Introducción a la Inteligencia Artificial
 
-## Instalación
-
-Instrucciones para instalar y configurar el proyecto en tu máquina local.
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/usuario/nombre-del-repositorio.git
