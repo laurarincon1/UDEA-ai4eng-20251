@@ -5,5 +5,5 @@
 - **Nombre**: Laura Angelina Rincón Aldana
 - **Correo**: laura.rincon1@udea.edu.co
 - **Cédula**: 1118529179
-- **Programa**: Introducción a la Inteligencia Artificial
+- **Programa**: Ingeniería Industrial
 
