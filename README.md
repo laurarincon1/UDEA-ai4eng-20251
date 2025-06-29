@@ -8,4 +8,7 @@
 - **Programa**: Ingeniería Industrial
 
 ## Videos
+Entrega 2:
 https://www.youtube.com/watch?v=89ajASiiOAo
+Entrega final:
+https://www.youtube.com/watch?v=QgPSK9OkFbA
