@@ -9,7 +9,7 @@
 
 ## Videos
 Entrega 2:
-https://www.youtube.com/watch?v=89ajASiiOAo
+https://www.youtube.com/watch?v=89ajASiiOAo1
 
 Entrega final:
-https://www.youtube.com/watch?v=QgPSK9OkFbA
+https://www.youtube.com/watch?v=QgPSK9OkFbA1
