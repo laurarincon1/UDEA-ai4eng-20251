@@ -7,9 +7,3 @@
 - **Cédula**: 1118529179
 - **Programa**: Ingeniería Industrial
 
-## Videos
-Entrega 2:
-https://www.youtube.com/watch?v=89ajASiiOAo1
-
-Entrega final:
-https://www.youtube.com/watch?v=QgPSK9OkFbA1
